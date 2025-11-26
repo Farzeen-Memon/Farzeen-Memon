@@ -8,7 +8,7 @@
 - 🚀 Currently learning & building with the **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 🤖 Exploring **AI/ML** & how it integrates with real-world products.  
 - 🔥 Love creating **clean UI, functional apps, and AI-integrated web tools**.  
-- 📫 Reach me at **your-email-here@gmail.com**  
+- 📫 Reach me at **farzeenmemonn@gmail.com**  
 
 ---
 
@@ -40,7 +40,7 @@
 ### 🔗 Links
 <p>
   <a href="https://github.com/Farzeen-Memon"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/farzeen-memon-web-aiml/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://farzeen-memon.github.io/Hanok-Grill/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
 
